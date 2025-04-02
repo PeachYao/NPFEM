@@ -1,3 +1,3 @@
-my code 3.0 is matlab files
+my code 3.0 is matlab file
 
-NPFEM_brick_statics is fortran files
+NPFEM_brick_statics is fortran file
